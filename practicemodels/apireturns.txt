@@ -1,0 +1,10 @@
+[0 1 1 1 1]
+[ METRICS: F1=0.5714285714285714 ]
+[ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+[ TIMING: 
+Execution time for ingestion.py: 0.7730811999936122 
+Execution time for training.py: 1.8581418999820016 ]
