@@ -1,0 +1,23 @@
+name: model_scoring
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - requests
+  - pip
+  - jupyter
+  - jupyterlab
+  - scikit-learn
+  - scipy
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - pip:
+      - pytest
+      - flake8
+      - setuptools
+      - pylint
+      - httpx
+      - flask
