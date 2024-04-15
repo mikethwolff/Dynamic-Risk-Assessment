@@ -1,8 +1,8 @@
-# Dynamic ML Model Risk Assessment System
+# Dynamic ML Model Risk Assessment
 
 ## Project starter kit
 
-Model scoring project: Create, deploy, and monitor a risk assessment ML model that will estimate the attrition risk of each of the company's 10,000 clients. If the model you create and deploy is accurate, it will enable the client managers to contact the clients with the highest risk and avoid losing clients and revenue.
+ML DevOps project: Create, deploy, and monitor a risk assessment ML model that will estimate the attrition risk of each of the company's 10,000 clients. If the model you create and deploy is accurate, it will enable the client managers to contact the clients with the highest risk and avoid losing clients and revenue.
 
 Data has been downloaded from the [Udacity 60412fe6 project starter kit](https://video.udacity-data.com/topher/2021/March/60412fe6_starter-file/starter-file.zip).
 

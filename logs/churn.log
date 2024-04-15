@@ -1,0 +1,2184 @@
+2024-04-10 20:19:16.871 INFO [ FILE: Loading data... ]
+2024-04-10 20:19:16.876 INFO [ START: Training... ]
+2024-04-10 20:19:16.879 INFO [ FINISH: Training successful ]
+2024-04-10 20:19:16.880 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 17:41:24.432 INFO [ FILE: Artifacts copied to deployment directory ]
+2024-04-12 18:01:21.376 INFO [ FILE: Loading data... ]
+2024-04-12 18:01:21.392 INFO [ START: Training... ]
+2024-04-12 18:01:21.406 INFO [ FINISH: Training successful ]
+2024-04-12 18:01:21.407 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 18:10:11.655 INFO [ FILE: Loading data... ]
+2024-04-12 18:10:11.662 INFO [ START: Training... ]
+2024-04-12 18:10:11.674 INFO [ FINISH: Training successful ]
+2024-04-12 18:10:11.676 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 18:10:11.844 INFO [ TIMING: Execution time for ingstion.py: 0.8033855999997286 ]
+2024-04-12 18:10:11.845 INFO [ TIMING: Execution time for training.py: 1.7165178999998716 ]
+2024-04-12 18:20:55.403 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 18:20:57.685 INFO [ FILE: Loading data... ]
+2024-04-12 18:20:57.691 INFO [ START: Training... ]
+2024-04-12 18:20:57.694 INFO [ FINISH: Training successful ]
+2024-04-12 18:20:57.695 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 18:20:57.850 INFO [ TIMING: Execution time for ingstion.py: 0.78703059999998 ]
+2024-04-12 18:20:57.850 INFO [ TIMING: Execution time for training.py: 1.6553421000003254 ]
+2024-04-12 18:21:08.534 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 18:25:05.862 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 18:25:08.154 INFO [ FILE: Loading data... ]
+2024-04-12 18:25:08.160 INFO [ START: Training... ]
+2024-04-12 18:25:08.163 INFO [ FINISH: Training successful ]
+2024-04-12 18:25:08.164 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 18:25:08.315 INFO [ TIMING: Execution time for ingstion.py: 0.8037673999997423 ]
+2024-04-12 18:25:08.316 INFO [ TIMING: Execution time for training.py: 1.645394699999997 ]
+2024-04-12 18:25:18.365 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 18:33:30.998 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 18:33:31.845 INFO [ FILE: Collecting data... ]
+2024-04-12 18:33:31.846 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 18:33:33.425 INFO [ FILE: Loading data... ]
+2024-04-12 18:33:33.430 INFO [ START: Training... ]
+2024-04-12 18:33:33.432 INFO [ FINISH: Training successful ]
+2024-04-12 18:33:33.433 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 18:33:33.585 INFO [ TIMING: Execution time for ingstion.py: 0.9298220999999103 ]
+2024-04-12 18:33:33.586 INFO [ TIMING: Execution time for training.py: 1.6532231999999567 ]
+2024-04-12 18:33:44.858 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 18:35:16.362 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 18:35:17.066 INFO [ START: Collecting data... ]
+2024-04-12 18:35:17.067 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 18:35:18.687 INFO [ FILE: Loading data... ]
+2024-04-12 18:35:18.692 INFO [ START: Training... ]
+2024-04-12 18:35:18.695 INFO [ FINISH: Training successful ]
+2024-04-12 18:35:18.697 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 18:35:18.846 INFO [ TIMING: Execution time for ingstion.py: 0.7869882000004509 ]
+2024-04-12 18:35:18.846 INFO [ TIMING: Execution time for training.py: 1.6931065999997372 ]
+2024-04-12 18:35:29.515 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 18:39:41.295 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 18:39:42.005 INFO [ START: Collecting data... ]
+2024-04-12 18:39:42.006 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 18:39:42.009 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 18:39:42.012 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 18:39:43.594 INFO [ FILE: Loading data... ]
+2024-04-12 18:39:43.600 INFO [ START: Training... ]
+2024-04-12 18:39:43.602 INFO [ FINISH: Training successful ]
+2024-04-12 18:39:43.603 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 18:39:43.756 INFO [ TIMING: Execution time for ingstion.py: 0.7933064999997441 ]
+2024-04-12 18:39:43.756 INFO [ TIMING: Execution time for training.py: 1.662695399999393 ]
+2024-04-12 18:39:54.614 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 18:40:10.792 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 18:40:11.490 INFO [ START: Collecting data... ]
+2024-04-12 18:40:11.491 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 18:40:11.497 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 18:40:13.064 INFO [ FILE: Loading data... ]
+2024-04-12 18:40:13.069 INFO [ START: Training... ]
+2024-04-12 18:40:13.071 INFO [ FINISH: Training successful ]
+2024-04-12 18:40:13.072 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 18:40:13.224 INFO [ TIMING: Execution time for ingstion.py: 0.787383800000498 ]
+2024-04-12 18:40:13.225 INFO [ TIMING: Execution time for training.py: 1.63967539999976 ]
+2024-04-12 18:40:24.184 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 18:41:20.698 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 18:41:21.391 INFO [ START: Collecting data... ]
+2024-04-12 18:41:21.392 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 18:41:21.398 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 18:41:21.402 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 18:41:22.977 INFO [ FILE: Loading data... ]
+2024-04-12 18:41:22.982 INFO [ START: Training... ]
+2024-04-12 18:41:22.984 INFO [ FINISH: Training successful ]
+2024-04-12 18:41:22.985 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 18:41:23.139 INFO [ TIMING: Execution time for ingstion.py: 0.7830309000000852 ]
+2024-04-12 18:41:23.140 INFO [ TIMING: Execution time for training.py: 1.6548811000002388 ]
+2024-04-12 18:41:33.715 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 18:43:30.687 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 18:43:31.382 INFO [ FILE: Directory structure: 
+practicedata/dataset1.csv ]
+2024-04-12 18:43:31.383 INFO [ FILE: Directory structure: 
+practicedata/dataset2.csv ]
+2024-04-12 18:43:31.387 INFO [ START: Collecting data... ]
+2024-04-12 18:43:31.388 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 18:43:31.395 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 18:43:31.401 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 18:43:32.988 INFO [ FILE: Loading data... ]
+2024-04-12 18:43:32.994 INFO [ START: Training... ]
+2024-04-12 18:43:32.996 INFO [ FINISH: Training successful ]
+2024-04-12 18:43:32.997 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 18:43:33.159 INFO [ TIMING: Execution time for ingstion.py: 0.7969984000001205 ]
+2024-04-12 18:43:33.159 INFO [ TIMING: Execution time for training.py: 1.6701328999997713 ]
+2024-04-12 18:43:43.699 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 18:44:44.362 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 18:44:45.054 INFO [ DIRECTORY: practicedata/dataset1.csv ]
+2024-04-12 18:44:45.055 INFO [ DIRECTORY: practicedata/dataset2.csv ]
+2024-04-12 18:44:45.059 INFO [ START: Collecting data... ]
+2024-04-12 18:44:45.059 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 18:44:45.065 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 18:44:45.070 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 18:44:46.652 INFO [ FILE: Loading data... ]
+2024-04-12 18:44:46.664 INFO [ START: Training... ]
+2024-04-12 18:44:46.667 INFO [ FINISH: Training successful ]
+2024-04-12 18:44:46.669 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 18:44:46.826 INFO [ TIMING: Execution time for ingstion.py: 0.7869858999993085 ]
+2024-04-12 18:44:46.827 INFO [ TIMING: Execution time for training.py: 1.6729327999992165 ]
+2024-04-12 18:44:57.836 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 18:45:46.638 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 18:45:47.332 INFO [ START: Collecting data... ]
+2024-04-12 18:45:47.333 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-12 18:45:47.333 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-12 18:45:47.337 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 18:45:47.343 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 18:45:47.347 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 18:45:48.906 INFO [ FILE: Loading data... ]
+2024-04-12 18:45:48.912 INFO [ START: Training... ]
+2024-04-12 18:45:48.915 INFO [ FINISH: Training successful ]
+2024-04-12 18:45:48.916 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 18:45:49.071 INFO [ TIMING: Execution time for ingstion.py: 0.7829897000001438 ]
+2024-04-12 18:45:49.072 INFO [ TIMING: Execution time for training.py: 1.6446766999997635 ]
+2024-04-12 18:45:59.423 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 18:50:26.956 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 18:50:26.968 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 18:50:27.672 INFO [ START: Collecting data... ]
+2024-04-12 18:50:27.673 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-12 18:50:27.673 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-12 18:50:27.677 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 18:50:27.683 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 18:50:27.687 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 18:50:29.363 INFO [ FILE: Loading data... ]
+2024-04-12 18:50:29.368 INFO [ START: Training... ]
+2024-04-12 18:50:29.370 INFO [ FINISH: Training successful ]
+2024-04-12 18:50:29.371 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 18:50:29.523 INFO [ TIMING: Execution time for ingstion.py: 0.7841917999994621 ]
+2024-04-12 18:50:29.524 INFO [ TIMING: Execution time for training.py: 1.7597097000007125 ]
+2024-04-12 18:50:40.612 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 18:52:27.162 INFO [ START: Collecting data... ]
+2024-04-12 18:52:27.163 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-12 18:52:27.164 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-12 18:52:27.167 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 18:52:27.173 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 18:52:27.177 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 18:52:28.760 INFO [ FILE: Loading data... ]
+2024-04-12 18:52:28.766 INFO [ START: Training... ]
+2024-04-12 18:52:28.769 INFO [ FINISH: Training successful ]
+2024-04-12 18:52:28.771 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 18:52:28.931 INFO [ TIMING: Execution time for ingstion.py: 0.774842599999829 ]
+2024-04-12 18:52:28.931 INFO [ TIMING: Execution time for training.py: 1.6754092999999557 ]
+2024-04-12 18:52:29.006 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 18:52:29.017 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 18:52:39.661 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 18:57:59.600 INFO [ START: Collecting data... ]
+2024-04-12 18:57:59.601 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-12 18:57:59.601 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-12 18:57:59.604 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 18:57:59.612 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 18:57:59.617 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 18:58:01.197 INFO [ FILE: Loading data... ]
+2024-04-12 18:58:01.202 INFO [ START: Training... ]
+2024-04-12 18:58:01.205 INFO [ FINISH: Training successful ]
+2024-04-12 18:58:01.206 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 18:58:01.356 INFO [ TIMING: Execution time for ingstion.py: 0.7784895000004326 ]
+2024-04-12 18:58:01.357 INFO [ TIMING: Execution time for training.py: 1.6624959000000672 ]
+2024-04-12 18:58:01.436 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 18:58:01.459 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 18:58:01.472 INFO [ STATISTICS: Percentage of NA columns: [0.0, 0.0, 0.0, 0.0, 0.0] ]
+2024-04-12 18:58:11.768 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 19:02:41.990 INFO [ START: Collecting data... ]
+2024-04-12 19:02:41.991 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-12 19:02:41.992 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-12 19:02:41.995 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 19:02:42.001 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 19:02:42.006 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 19:02:43.619 INFO [ FILE: Loading data... ]
+2024-04-12 19:02:43.624 INFO [ START: Training... ]
+2024-04-12 19:02:43.626 INFO [ FINISH: Training successful ]
+2024-04-12 19:02:43.628 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 19:02:43.788 INFO [ TIMING: Execution time for ingstion.py: 0.7994985999994242 ]
+2024-04-12 19:02:43.789 INFO [ TIMING: Execution time for training.py: 1.698961799999779 ]
+2024-04-12 19:02:43.862 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 19:02:43.873 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 19:02:43.878 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-12 19:02:55.807 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 19:07:22.240 INFO [ START: Collecting data... ]
+2024-04-12 19:07:22.241 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-12 19:07:22.242 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-12 19:07:22.245 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 19:07:22.251 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 19:07:22.255 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 19:07:23.851 INFO [ FILE: Loading data... ]
+2024-04-12 19:07:23.856 INFO [ START: Training... ]
+2024-04-12 19:07:23.859 INFO [ FINISH: Training successful ]
+2024-04-12 19:07:23.860 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 19:07:24.012 INFO [ TIMING: Execution time for ingestion.py: 0.8010134999994989 ]
+2024-04-12 19:07:24.012 INFO [ TIMING: Execution time for training.py: 1.6766548999994484 ]
+2024-04-12 19:07:24.089 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 19:07:24.100 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 19:07:24.105 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-12 19:07:34.620 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 19:08:03.550 INFO [ START: Collecting data... ]
+2024-04-12 19:08:03.551 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-12 19:08:03.552 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-12 19:08:03.556 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 19:08:03.564 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 19:08:03.569 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 19:08:05.147 INFO [ FILE: Loading data... ]
+2024-04-12 19:08:05.152 INFO [ START: Training model... ]
+2024-04-12 19:08:05.155 INFO [ FINISH: Training successful ]
+2024-04-12 19:08:05.156 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 19:08:05.306 INFO [ TIMING: Execution time for ingestion.py: 0.7857806000001801 ]
+2024-04-12 19:08:05.307 INFO [ TIMING: Execution time for training.py: 1.6568114000001515 ]
+2024-04-12 19:08:05.382 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 19:08:05.393 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 19:08:05.397 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-12 19:08:16.404 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 19:36:18.243 INFO [ START: Collecting data... ]
+2024-04-12 19:36:18.244 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-12 19:36:18.244 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-12 19:36:18.247 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 19:36:18.253 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 19:36:18.257 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 19:36:19.822 INFO [ FILE: Loading data... ]
+2024-04-12 19:36:19.827 INFO [ START: Training model... ]
+2024-04-12 19:36:19.830 INFO [ FINISH: Training successful ]
+2024-04-12 19:36:19.831 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 19:36:19.993 INFO [ TIMING: Execution time for ingestion.py: 0.8120459000001574 ]
+2024-04-12 19:36:19.994 INFO [ TIMING: Execution time for training.py: 1.6627809999999954 ]
+2024-04-12 19:36:20.069 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 19:36:20.080 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 19:36:20.082 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-12 19:36:30.344 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 19:38:42.524 INFO [ START: Collecting data... ]
+2024-04-12 19:38:42.525 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-12 19:38:42.526 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-12 19:38:42.530 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 19:38:42.536 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 19:38:42.540 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 19:38:44.114 INFO [ FILE: Loading data... ]
+2024-04-12 19:38:44.120 INFO [ START: Training model... ]
+2024-04-12 19:38:44.122 INFO [ FINISH: Training successful ]
+2024-04-12 19:38:44.124 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 19:38:44.275 INFO [ TIMING: Execution time for ingestion.py: 0.7788934999998673 ]
+2024-04-12 19:38:44.276 INFO [ TIMING: Execution time for training.py: 1.657864800000425 ]
+2024-04-12 19:38:44.349 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 19:38:44.360 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 19:38:44.365 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-12 19:38:54.566 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 19:42:20.861 INFO [ START: Collecting data... ]
+2024-04-12 19:42:20.862 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-12 19:42:20.862 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-12 19:42:20.864 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 19:42:20.870 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 19:42:20.874 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 19:42:22.572 INFO [ DATA: Loading data... ]
+2024-04-12 19:42:22.577 INFO [ START: Training model... ]
+2024-04-12 19:42:22.579 INFO [ FINISH: Training successful ]
+2024-04-12 19:42:22.580 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 19:42:22.733 INFO [ TIMING: Execution time for ingestion.py: 0.7683770999992703 ]
+2024-04-12 19:42:22.734 INFO [ TIMING: Execution time for training.py: 1.7857287999995606 ]
+2024-04-12 19:42:22.812 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 19:42:22.823 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 19:42:22.828 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-12 19:42:33.816 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 19:43:10.359 INFO [ START: Collecting data... ]
+2024-04-12 19:43:10.360 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-12 19:43:10.361 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-12 19:43:10.364 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 19:43:10.372 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 19:43:10.377 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 19:43:11.966 INFO [ DATA: Loading data... ]
+2024-04-12 19:43:11.972 INFO [ MODEL: Training model... ]
+2024-04-12 19:43:11.974 INFO [ FINISH: Training successful ]
+2024-04-12 19:43:11.976 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 19:43:12.125 INFO [ TIMING: Execution time for ingestion.py: 0.7925290999992285 ]
+2024-04-12 19:43:12.126 INFO [ TIMING: Execution time for training.py: 1.6710048000004463 ]
+2024-04-12 19:43:12.202 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 19:43:12.213 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 19:43:12.219 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-12 19:43:23.596 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 19:44:03.324 INFO [ DATA: Collecting data... ]
+2024-04-12 19:44:03.324 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-12 19:44:03.327 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-12 19:44:03.331 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 19:44:03.341 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 19:44:03.348 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 19:44:04.918 INFO [ DATA: Loading data... ]
+2024-04-12 19:44:04.923 INFO [ MODEL: Training model... ]
+2024-04-12 19:44:04.926 INFO [ FINISH: Training successful ]
+2024-04-12 19:44:04.927 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 19:44:05.078 INFO [ TIMING: Execution time for ingestion.py: 0.7869570000002568 ]
+2024-04-12 19:44:05.079 INFO [ TIMING: Execution time for training.py: 1.645947699998942 ]
+2024-04-12 19:44:05.152 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 19:44:05.163 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 19:44:05.168 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-12 19:44:15.159 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 19:56:43.557 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 19:56:44.309 INFO [ DATA: Confusion matrix saved to '{output_model_path}/confusionmatrix.png' ]
+2024-04-12 20:00:41.359 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 20:00:42.127 INFO [ DATA: Confusion matrix saved to '{output_model_path}/confusionmatrix.png' ]
+2024-04-12 20:01:48.147 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 20:01:48.327 INFO [ DATA: Confusion matrix saved to '{output_model_path}/confusionmatrix.png' ]
+2024-04-12 20:03:22.898 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 20:03:55.790 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 20:03:56.575 INFO [ DATA: Confusion matrix saved to '{output_model_path}/confusionmatrix.png' ]
+2024-04-12 20:09:42.346 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 20:09:54.655 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 20:10:17.899 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 20:16:07.723 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 20:16:08.426 INFO [ DATA: Confusion matrix saved to '{output_model_path}/confusionmatrix.png' ]
+2024-04-12 20:18:01.554 INFO [ DATA: Collecting data... ]
+2024-04-12 20:18:01.555 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-12 20:18:01.555 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-12 20:18:01.558 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 20:18:01.567 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 20:18:01.589 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 20:18:03.176 INFO [ DATA: Loading data... ]
+2024-04-12 20:18:03.185 INFO [ MODEL: Training model... ]
+2024-04-12 20:18:03.194 INFO [ FINISH: Training successful ]
+2024-04-12 20:18:03.197 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 20:18:03.350 INFO [ TIMING: Execution time for ingestion.py: 0.7994490000000951 ]
+2024-04-12 20:18:03.351 INFO [ TIMING: Execution time for training.py: 1.6851970000006986 ]
+2024-04-12 20:18:03.449 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 20:18:03.453 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-12 20:18:14.856 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 20:22:35.398 INFO [ DATA: Collecting data... ]
+2024-04-12 20:22:35.399 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-12 20:22:35.400 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-12 20:22:35.404 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-12 20:22:35.411 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-12 20:22:35.416 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-12 20:22:37.058 INFO [ DATA: Loading data... ]
+2024-04-12 20:22:37.064 INFO [ MODEL: Training model... ]
+2024-04-12 20:22:37.066 INFO [ FINISH: Training successful ]
+2024-04-12 20:22:37.067 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-12 20:22:37.219 INFO [ TIMING: Execution time for ingestion.py: 0.7806919000013295 ]
+2024-04-12 20:22:37.220 INFO [ TIMING: Execution time for training.py: 1.7250653999999486 ]
+2024-04-12 20:22:37.293 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 20:22:37.306 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-12 20:22:37.318 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-12 20:22:48.967 INFO [ FILE: Outdated dependencies: 
+Package           Version     Latest      Type
+----------------- ----------- ----------- -----
+contourpy         1.2.0       1.2.1       wheel
+fonttools         4.50.0      4.51.0      wheel
+idna              3.6         3.7         wheel
+ipython           8.22.2      8.23.0      wheel
+joblib            1.3.2       1.4.0       wheel
+jupyter-lsp       2.2.4       2.2.5       wheel
+jupyter_server    2.13.0      2.14.0      wheel
+jupyterlab        4.1.5       4.1.6       wheel
+jupyterlab_server 2.25.4      2.26.0      wheel
+matplotlib        3.8.3       3.8.4       wheel
+nbformat          5.10.3      5.10.4      wheel
+pandas            2.2.1       2.2.2       wheel
+parso             0.8.3       0.8.4       wheel
+pillow            10.2.0      10.3.0      wheel
+pycparser         2.21        2.22        wheel
+PyQt5             5.15.9      5.15.10     wheel
+PyQt5-sip         12.12.2     12.13.0     wheel
+python-dateutil   2.9.0       2.9.0.post0 wheel
+scikit-learn      1.4.1.post1 1.4.2       wheel
+scipy             1.12.0      1.13.0      wheel
+Send2Trash        1.8.2       1.8.3       wheel
+setuptools        69.2.0      69.3.0      wheel
+sip               6.7.12      6.8.3       wheel
+ ]
+2024-04-12 20:22:58.852 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 20:22:59.502 INFO [ DATA: Confusion matrix saved to '{output_model_path}/confusionmatrix.png' ]
+2024-04-12 20:31:18.700 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 20:31:19.352 INFO [ DATA: Confusion matrix saved to '{output_model_path}/confusionmatrix.png' ]
+2024-04-12 20:32:40.447 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-12 20:32:41.117 INFO [ DATA: Confusion matrix saved to 'practicemodels/confusionmatrix.png' ]
+2024-04-14 19:15:41.080 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.12:8000
+2024-04-14 19:15:41.096 INFO [33mPress CTRL+C to quit[0m
+2024-04-14 19:15:41.101 INFO  * Restarting with stat
+2024-04-14 19:15:43.161 WARNING  * Debugger is active!
+2024-04-14 19:15:43.163 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:17:08.912 INFO [ DATA: Collecting data... ]
+2024-04-14 19:17:08.913 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 19:17:08.914 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 19:17:08.919 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 19:17:08.929 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 19:17:08.959 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 19:17:10.618 INFO [ DATA: Loading data... ]
+2024-04-14 19:17:10.630 INFO [ MODEL: Training model... ]
+2024-04-14 19:17:10.646 INFO [ FINISH: Training successful ]
+2024-04-14 19:17:10.647 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 19:17:10.800 INFO [ TIMING: Execution time for ingestion.py: 0.8324656000186224 ]
+2024-04-14 19:17:10.801 INFO [ TIMING: Execution time for training.py: 1.7660081000067294 ]
+2024-04-14 19:17:10.804 INFO 127.0.0.1 - - [14/Apr/2024 19:17:10] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 19:19:47.427 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 19:19:47.612 INFO  * Restarting with stat
+2024-04-14 19:24:41.962 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.12:8000
+2024-04-14 19:24:41.964 INFO [33mPress CTRL+C to quit[0m
+2024-04-14 19:24:41.966 INFO  * Restarting with stat
+2024-04-14 19:24:43.696 WARNING  * Debugger is active!
+2024-04-14 19:24:43.697 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:24:55.741 INFO [ DATA: Collecting data... ]
+2024-04-14 19:24:55.742 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 19:24:55.742 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 19:24:55.745 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 19:24:55.750 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 19:24:55.754 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 19:24:57.538 INFO [ DATA: Loading data... ]
+2024-04-14 19:24:57.544 INFO [ MODEL: Training model... ]
+2024-04-14 19:24:57.547 INFO [ FINISH: Training successful ]
+2024-04-14 19:24:57.548 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 19:24:57.709 INFO [ TIMING: Execution time for ingestion.py: 0.8140285999979824 ]
+2024-04-14 19:24:57.709 INFO [ TIMING: Execution time for training.py: 1.872924499999499 ]
+2024-04-14 19:24:57.711 INFO 127.0.0.1 - - [14/Apr/2024 19:24:57] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 19:27:05.604 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 19:27:05.815 INFO  * Restarting with stat
+2024-04-14 19:27:08.213 WARNING  * Debugger is active!
+2024-04-14 19:27:08.215 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:27:17.777 INFO [ DATA: Collecting data... ]
+2024-04-14 19:27:17.777 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 19:27:17.778 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 19:27:17.780 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 19:27:17.786 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 19:27:17.790 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 19:27:19.426 INFO [ DATA: Loading data... ]
+2024-04-14 19:27:19.432 INFO [ MODEL: Training model... ]
+2024-04-14 19:27:19.435 INFO [ FINISH: Training successful ]
+2024-04-14 19:27:19.435 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 19:27:19.607 INFO [ TIMING: Execution time for ingestion.py: 0.9425479000201449 ]
+2024-04-14 19:27:19.607 INFO [ TIMING: Execution time for training.py: 1.7419844999967609 ]
+2024-04-14 19:27:19.609 INFO 127.0.0.1 - - [14/Apr/2024 19:27:19] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 19:28:00.990 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 19:28:01.172 INFO  * Restarting with stat
+2024-04-14 19:28:02.893 WARNING  * Debugger is active!
+2024-04-14 19:28:02.894 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:28:05.947 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 19:28:06.145 INFO  * Restarting with stat
+2024-04-14 19:28:07.866 WARNING  * Debugger is active!
+2024-04-14 19:28:07.868 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:28:18.907 INFO [ DATA: Collecting data... ]
+2024-04-14 19:28:18.908 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 19:28:18.908 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 19:28:18.912 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 19:28:18.918 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 19:28:18.924 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 19:28:20.572 INFO [ DATA: Loading data... ]
+2024-04-14 19:28:20.579 INFO [ MODEL: Training model... ]
+2024-04-14 19:28:20.583 INFO [ FINISH: Training successful ]
+2024-04-14 19:28:20.584 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 19:28:20.748 INFO [ TIMING: Execution time for ingestion.py: 0.814899199991487 ]
+2024-04-14 19:28:20.749 INFO [ TIMING: Execution time for training.py: 1.746789600001648 ]
+2024-04-14 19:28:20.750 INFO 127.0.0.1 - - [14/Apr/2024 19:28:20] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 19:30:15.590 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 19:30:15.789 INFO  * Restarting with stat
+2024-04-14 19:30:17.715 WARNING  * Debugger is active!
+2024-04-14 19:30:17.716 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:30:39.823 INFO [ DATA: Collecting data... ]
+2024-04-14 19:30:39.824 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 19:30:39.825 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 19:30:39.829 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 19:30:39.835 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 19:30:39.840 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 19:30:41.450 INFO [ DATA: Loading data... ]
+2024-04-14 19:30:41.456 INFO [ MODEL: Training model... ]
+2024-04-14 19:30:41.458 INFO [ FINISH: Training successful ]
+2024-04-14 19:30:41.460 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 19:30:41.609 INFO [ TIMING: Execution time for ingestion.py: 0.7824562000168953 ]
+2024-04-14 19:30:41.610 INFO [ TIMING: Execution time for training.py: 1.6914532000082545 ]
+2024-04-14 19:30:41.611 INFO 127.0.0.1 - - [14/Apr/2024 19:30:41] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 19:33:40.595 INFO [ DATA: Collecting data... ]
+2024-04-14 19:33:40.597 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 19:33:40.598 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 19:33:40.601 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 19:33:40.607 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 19:33:40.612 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 19:33:42.326 INFO [ DATA: Loading data... ]
+2024-04-14 19:33:42.331 INFO [ MODEL: Training model... ]
+2024-04-14 19:33:42.333 INFO [ FINISH: Training successful ]
+2024-04-14 19:33:42.334 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 19:33:42.495 INFO [ TIMING: Execution time for ingestion.py: 0.8471515999990515 ]
+2024-04-14 19:33:42.497 INFO [ TIMING: Execution time for training.py: 1.79714629999944 ]
+2024-04-14 19:33:42.498 INFO 127.0.0.1 - - [14/Apr/2024 19:33:42] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 19:33:57.711 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 19:33:57.906 INFO  * Restarting with stat
+2024-04-14 19:33:59.638 WARNING  * Debugger is active!
+2024-04-14 19:33:59.639 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:34:08.339 INFO [ DATA: Collecting data... ]
+2024-04-14 19:34:08.340 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 19:34:08.341 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 19:34:08.345 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 19:34:08.351 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 19:34:08.355 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 19:34:10.102 INFO [ DATA: Loading data... ]
+2024-04-14 19:34:10.108 INFO [ MODEL: Training model... ]
+2024-04-14 19:34:10.111 INFO [ FINISH: Training successful ]
+2024-04-14 19:34:10.112 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 19:34:10.268 INFO [ TIMING: Execution time for ingestion.py: 0.7726903999864589 ]
+2024-04-14 19:34:10.269 INFO [ TIMING: Execution time for training.py: 1.8365219999977853 ]
+2024-04-14 19:34:10.275 INFO 127.0.0.1 - - [14/Apr/2024 19:34:10] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 19:37:03.381 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 19:37:03.620 INFO  * Restarting with stat
+2024-04-14 19:37:05.517 WARNING  * Debugger is active!
+2024-04-14 19:37:05.518 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:37:42.459 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 19:37:42.653 INFO  * Restarting with stat
+2024-04-14 19:37:44.414 WARNING  * Debugger is active!
+2024-04-14 19:37:44.415 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:38:18.987 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 19:38:19.189 INFO  * Restarting with stat
+2024-04-14 19:38:21.445 WARNING  * Debugger is active!
+2024-04-14 19:38:21.448 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:41:13.657 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 19:41:13.880 INFO  * Restarting with stat
+2024-04-14 19:41:16.128 WARNING  * Debugger is active!
+2024-04-14 19:41:16.129 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:41:50.873 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 19:41:51.067 INFO  * Restarting with stat
+2024-04-14 19:41:52.993 WARNING  * Debugger is active!
+2024-04-14 19:41:52.994 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:41:55.035 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 19:41:55.227 INFO  * Restarting with stat
+2024-04-14 19:41:57.054 WARNING  * Debugger is active!
+2024-04-14 19:41:57.056 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:42:16.336 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 19:42:16.544 INFO  * Restarting with stat
+2024-04-14 19:42:18.458 WARNING  * Debugger is active!
+2024-04-14 19:42:18.460 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:42:41.068 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 19:42:41.277 INFO  * Restarting with stat
+2024-04-14 19:42:43.018 WARNING  * Debugger is active!
+2024-04-14 19:42:43.019 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:42:58.268 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 19:42:58.456 INFO  * Restarting with stat
+2024-04-14 19:43:00.392 WARNING  * Debugger is active!
+2024-04-14 19:43:00.394 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:43:11.580 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 19:43:11.763 INFO  * Restarting with stat
+2024-04-14 19:43:13.703 WARNING  * Debugger is active!
+2024-04-14 19:43:13.705 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:47:22.153 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 19:47:22.371 INFO  * Restarting with stat
+2024-04-14 19:47:24.211 WARNING  * Debugger is active!
+2024-04-14 19:47:24.212 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:47:35.359 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 19:47:35.578 INFO  * Restarting with stat
+2024-04-14 19:47:37.423 WARNING  * Debugger is active!
+2024-04-14 19:47:37.424 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:47:38.141 INFO [ DATA: Collecting data... ]
+2024-04-14 19:47:38.142 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 19:47:38.143 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 19:47:38.147 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 19:47:38.152 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 19:47:38.157 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 19:47:39.771 INFO [ DATA: Loading data... ]
+2024-04-14 19:47:39.777 INFO [ MODEL: Training model... ]
+2024-04-14 19:47:39.780 INFO [ FINISH: Training successful ]
+2024-04-14 19:47:39.781 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 19:47:39.937 INFO [ TIMING: Execution time for ingestion.py: 0.7963397999992594 ]
+2024-04-14 19:47:39.938 INFO [ TIMING: Execution time for training.py: 1.7013030000089202 ]
+2024-04-14 19:47:39.942 INFO 127.0.0.1 - - [14/Apr/2024 19:47:39] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 19:49:55.944 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 19:49:56.146 INFO  * Restarting with stat
+2024-04-14 19:49:58.099 WARNING  * Debugger is active!
+2024-04-14 19:49:58.101 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:50:05.689 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 19:50:05.696 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 19:50:05.704 INFO 127.0.0.1 - - [14/Apr/2024 19:50:05] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 19:50:06.441 INFO [ DATA: Collecting data... ]
+2024-04-14 19:50:06.442 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 19:50:06.443 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 19:50:06.446 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 19:50:06.452 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 19:50:06.457 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 19:50:08.113 INFO [ DATA: Loading data... ]
+2024-04-14 19:50:08.118 INFO [ MODEL: Training model... ]
+2024-04-14 19:50:08.121 INFO [ FINISH: Training successful ]
+2024-04-14 19:50:08.122 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 19:50:08.292 INFO [ TIMING: Execution time for ingestion.py: 0.8383643999986816 ]
+2024-04-14 19:50:08.292 INFO [ TIMING: Execution time for training.py: 1.743696399993496 ]
+2024-04-14 19:50:08.296 INFO 127.0.0.1 - - [14/Apr/2024 19:50:08] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 19:50:26.601 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 19:50:26.788 INFO  * Restarting with stat
+2024-04-14 19:50:28.534 WARNING  * Debugger is active!
+2024-04-14 19:50:28.536 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:52:01.699 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 19:52:01.883 INFO  * Restarting with stat
+2024-04-14 19:52:03.865 WARNING  * Debugger is active!
+2024-04-14 19:52:03.867 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:52:10.030 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 19:52:10.032 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 19:52:10.037 INFO 127.0.0.1 - - [14/Apr/2024 19:52:10] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 19:52:10.786 INFO [ DATA: Collecting data... ]
+2024-04-14 19:52:10.786 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 19:52:10.787 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 19:52:10.791 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 19:52:10.798 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 19:52:10.802 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 19:52:12.455 INFO [ DATA: Loading data... ]
+2024-04-14 19:52:12.470 INFO [ MODEL: Training model... ]
+2024-04-14 19:52:12.473 INFO [ FINISH: Training successful ]
+2024-04-14 19:52:12.475 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 19:52:12.627 INFO [ TIMING: Execution time for ingestion.py: 0.8361610999854747 ]
+2024-04-14 19:52:12.628 INFO [ TIMING: Execution time for training.py: 1.7474856000044383 ]
+2024-04-14 19:52:12.632 INFO 127.0.0.1 - - [14/Apr/2024 19:52:12] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 19:52:49.682 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 19:52:49.889 INFO  * Restarting with stat
+2024-04-14 19:52:51.765 WARNING  * Debugger is active!
+2024-04-14 19:52:51.766 INFO  * Debugger PIN: 121-634-329
+2024-04-14 19:52:52.386 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 19:52:52.390 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 19:52:52.396 INFO 127.0.0.1 - - [14/Apr/2024 19:52:52] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 19:52:53.099 INFO [ DATA: Collecting data... ]
+2024-04-14 19:52:53.100 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 19:52:53.101 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 19:52:53.105 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 19:52:53.112 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 19:52:53.117 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 19:52:54.910 INFO [ DATA: Loading data... ]
+2024-04-14 19:52:54.915 INFO [ MODEL: Training model... ]
+2024-04-14 19:52:54.918 INFO [ FINISH: Training successful ]
+2024-04-14 19:52:54.920 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 19:52:55.087 INFO [ TIMING: Execution time for ingestion.py: 0.7961703999899328 ]
+2024-04-14 19:52:55.088 INFO [ TIMING: Execution time for training.py: 1.8890968000050634 ]
+2024-04-14 19:52:55.103 INFO 127.0.0.1 - - [14/Apr/2024 19:52:55] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:06:29.691 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 20:06:30.002 INFO  * Restarting with stat
+2024-04-14 20:06:33.266 WARNING  * Debugger is active!
+2024-04-14 20:06:33.269 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:06:33.325 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:06:33.327 INFO 127.0.0.1 - - [14/Apr/2024 20:06:33] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 20:06:33.359 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:06:33.365 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:06:33.374 INFO 127.0.0.1 - - [14/Apr/2024 20:06:33] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:06:34.405 INFO [ DATA: Collecting data... ]
+2024-04-14 20:06:34.407 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:06:34.408 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:06:34.413 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:06:34.424 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:06:34.441 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:06:36.553 INFO [ DATA: Loading data... ]
+2024-04-14 20:06:36.561 INFO [ MODEL: Training model... ]
+2024-04-14 20:06:36.575 INFO [ FINISH: Training successful ]
+2024-04-14 20:06:36.578 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:06:36.797 INFO [ TIMING: Execution time for ingestion.py: 1.165887399984058 ]
+2024-04-14 20:06:36.799 INFO [ TIMING: Execution time for training.py: 2.2406660999986343 ]
+2024-04-14 20:06:36.807 INFO 127.0.0.1 - - [14/Apr/2024 20:06:36] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:07:55.282 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/scoring.py', reloading
+2024-04-14 20:07:55.462 INFO  * Restarting with stat
+2024-04-14 20:07:57.178 WARNING  * Debugger is active!
+2024-04-14 20:07:57.180 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:08:01.555 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:08:01.556 INFO 127.0.0.1 - - [14/Apr/2024 20:08:01] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 20:08:01.575 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:08:01.593 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:08:01.600 INFO 127.0.0.1 - - [14/Apr/2024 20:08:01] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:08:02.286 INFO [ DATA: Collecting data... ]
+2024-04-14 20:08:02.287 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:08:02.287 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:08:02.291 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:08:02.297 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:08:02.303 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:08:03.929 INFO [ DATA: Loading data... ]
+2024-04-14 20:08:03.934 INFO [ MODEL: Training model... ]
+2024-04-14 20:08:03.937 INFO [ FINISH: Training successful ]
+2024-04-14 20:08:03.938 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:08:04.085 INFO [ TIMING: Execution time for ingestion.py: 0.7770040000032168 ]
+2024-04-14 20:08:04.085 INFO [ TIMING: Execution time for training.py: 1.703736099996604 ]
+2024-04-14 20:08:04.090 INFO 127.0.0.1 - - [14/Apr/2024 20:08:04] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:10:42.242 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:10:42.415 INFO  * Restarting with stat
+2024-04-14 20:10:44.425 WARNING  * Debugger is active!
+2024-04-14 20:10:44.426 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:10:51.907 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:10:51.908 INFO 127.0.0.1 - - [14/Apr/2024 20:10:51] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 20:10:51.928 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:10:51.933 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:10:51.942 INFO 127.0.0.1 - - [14/Apr/2024 20:10:51] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:10:52.703 INFO [ DATA: Collecting data... ]
+2024-04-14 20:10:52.704 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:10:52.705 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:10:52.708 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:10:52.715 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:10:52.719 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:10:54.299 INFO [ DATA: Loading data... ]
+2024-04-14 20:10:54.304 INFO [ MODEL: Training model... ]
+2024-04-14 20:10:54.307 INFO [ FINISH: Training successful ]
+2024-04-14 20:10:54.308 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:10:54.458 INFO [ TIMING: Execution time for ingestion.py: 0.8197884000255726 ]
+2024-04-14 20:10:54.458 INFO [ TIMING: Execution time for training.py: 1.6655123999807984 ]
+2024-04-14 20:10:54.464 INFO 127.0.0.1 - - [14/Apr/2024 20:10:54] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:16:06.428 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 20:16:06.647 INFO  * Restarting with stat
+2024-04-14 20:16:08.437 WARNING  * Debugger is active!
+2024-04-14 20:16:08.439 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:16:17.544 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 20:16:17.726 INFO  * Restarting with stat
+2024-04-14 20:16:19.523 WARNING  * Debugger is active!
+2024-04-14 20:16:19.524 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:16:22.523 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:16:22.524 INFO 127.0.0.1 - - [14/Apr/2024 20:16:22] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 20:16:22.541 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:16:22.546 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:16:22.551 INFO 127.0.0.1 - - [14/Apr/2024 20:16:22] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:16:23.253 INFO [ DATA: Collecting data... ]
+2024-04-14 20:16:23.254 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:16:23.254 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:16:23.258 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:16:23.264 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:16:23.269 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:16:24.856 INFO [ DATA: Loading data... ]
+2024-04-14 20:16:24.861 INFO [ MODEL: Training model... ]
+2024-04-14 20:16:24.864 INFO [ FINISH: Training successful ]
+2024-04-14 20:16:24.865 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:16:25.012 INFO [ TIMING: Execution time for ingestion.py: 0.773852899990743 ]
+2024-04-14 20:16:25.013 INFO [ TIMING: Execution time for training.py: 1.6662535000068601 ]
+2024-04-14 20:16:25.018 INFO 127.0.0.1 - - [14/Apr/2024 20:16:25] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:17:17.830 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.12:8000
+2024-04-14 20:17:17.831 INFO [33mPress CTRL+C to quit[0m
+2024-04-14 20:17:17.833 INFO  * Restarting with stat
+2024-04-14 20:17:19.514 WARNING  * Debugger is active!
+2024-04-14 20:17:19.516 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:17:26.972 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:17:26.973 INFO 127.0.0.1 - - [14/Apr/2024 20:17:26] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 20:17:26.991 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:17:26.993 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:17:27.001 INFO 127.0.0.1 - - [14/Apr/2024 20:17:27] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:17:27.711 INFO [ DATA: Collecting data... ]
+2024-04-14 20:17:27.712 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:17:27.712 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:17:27.716 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:17:27.721 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:17:27.726 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:17:29.664 INFO [ DATA: Loading data... ]
+2024-04-14 20:17:29.669 INFO [ MODEL: Training model... ]
+2024-04-14 20:17:29.672 INFO [ FINISH: Training successful ]
+2024-04-14 20:17:29.673 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:17:29.823 INFO [ TIMING: Execution time for ingestion.py: 0.774086100020213 ]
+2024-04-14 20:17:29.823 INFO [ TIMING: Execution time for training.py: 2.019796199980192 ]
+2024-04-14 20:17:29.828 INFO 127.0.0.1 - - [14/Apr/2024 20:17:29] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:19:20.883 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:19:21.058 INFO  * Restarting with stat
+2024-04-14 20:19:22.849 WARNING  * Debugger is active!
+2024-04-14 20:19:22.851 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:19:28.386 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:19:28.387 INFO 127.0.0.1 - - [14/Apr/2024 20:19:28] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 20:19:28.403 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:19:28.404 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:19:28.409 INFO 127.0.0.1 - - [14/Apr/2024 20:19:28] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:19:29.126 INFO [ DATA: Collecting data... ]
+2024-04-14 20:19:29.127 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:19:29.128 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:19:29.131 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:19:29.137 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:19:29.141 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:19:30.671 INFO [ DATA: Loading data... ]
+2024-04-14 20:19:30.676 INFO [ MODEL: Training model... ]
+2024-04-14 20:19:30.679 INFO [ FINISH: Training successful ]
+2024-04-14 20:19:30.680 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:19:30.856 INFO [ TIMING: Execution time for ingestion.py: 0.7841434000001755 ]
+2024-04-14 20:19:30.857 INFO [ TIMING: Execution time for training.py: 1.6401483999798074 ]
+2024-04-14 20:19:30.862 INFO 127.0.0.1 - - [14/Apr/2024 20:19:30] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:20:40.758 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:20:40.933 INFO  * Restarting with stat
+2024-04-14 20:20:42.827 WARNING  * Debugger is active!
+2024-04-14 20:20:42.829 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:21:40.490 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:21:40.682 INFO  * Restarting with stat
+2024-04-14 20:21:42.483 WARNING  * Debugger is active!
+2024-04-14 20:21:42.485 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:21:48.571 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:21:48.744 INFO  * Restarting with stat
+2024-04-14 20:21:50.551 WARNING  * Debugger is active!
+2024-04-14 20:21:50.553 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:24:44.843 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:24:44.844 INFO 127.0.0.1 - - [14/Apr/2024 20:24:44] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 20:24:44.860 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:24:44.873 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:24:44.905 INFO 127.0.0.1 - - [14/Apr/2024 20:24:44] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:24:45.590 INFO [ DATA: Collecting data... ]
+2024-04-14 20:24:45.591 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:24:45.592 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:24:45.596 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:24:45.602 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:24:45.606 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:24:47.165 INFO [ DATA: Loading data... ]
+2024-04-14 20:24:47.170 INFO [ MODEL: Training model... ]
+2024-04-14 20:24:47.173 INFO [ FINISH: Training successful ]
+2024-04-14 20:24:47.174 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:24:47.322 INFO [ TIMING: Execution time for ingestion.py: 0.7703673999931198 ]
+2024-04-14 20:24:47.323 INFO [ TIMING: Execution time for training.py: 1.6405217999999877 ]
+2024-04-14 20:24:47.328 INFO 127.0.0.1 - - [14/Apr/2024 20:24:47] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:26:53.601 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:26:53.793 INFO  * Restarting with stat
+2024-04-14 20:26:55.533 WARNING  * Debugger is active!
+2024-04-14 20:26:55.535 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:27:51.562 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 20:27:51.773 INFO  * Restarting with stat
+2024-04-14 20:27:53.569 WARNING  * Debugger is active!
+2024-04-14 20:27:53.570 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:27:57.642 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 20:27:57.829 INFO  * Restarting with stat
+2024-04-14 20:27:59.793 WARNING  * Debugger is active!
+2024-04-14 20:27:59.794 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:28:03.689 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 20:28:03.690 INFO 127.0.0.1 - - [14/Apr/2024 20:28:03] "POST /prediction HTTP/1.1" 200 -
+2024-04-14 20:28:03.704 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:28:03.704 INFO 127.0.0.1 - - [14/Apr/2024 20:28:03] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 20:28:03.723 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:28:03.729 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:28:03.739 INFO 127.0.0.1 - - [14/Apr/2024 20:28:03] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:28:04.451 INFO [ DATA: Collecting data... ]
+2024-04-14 20:28:04.452 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:28:04.452 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:28:04.456 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:28:04.462 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:28:04.467 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:28:05.989 INFO [ DATA: Loading data... ]
+2024-04-14 20:28:05.994 INFO [ MODEL: Training model... ]
+2024-04-14 20:28:05.997 INFO [ FINISH: Training successful ]
+2024-04-14 20:28:06.001 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:28:06.157 INFO [ TIMING: Execution time for ingestion.py: 0.798338499997044 ]
+2024-04-14 20:28:06.158 INFO [ TIMING: Execution time for training.py: 1.6148027000017464 ]
+2024-04-14 20:28:06.163 INFO 127.0.0.1 - - [14/Apr/2024 20:28:06] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:28:43.459 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:28:43.660 INFO  * Restarting with stat
+2024-04-14 20:28:45.657 WARNING  * Debugger is active!
+2024-04-14 20:28:45.663 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:28:48.081 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 20:28:48.083 INFO 127.0.0.1 - - [14/Apr/2024 20:28:48] "POST /prediction HTTP/1.1" 200 -
+2024-04-14 20:28:48.101 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:28:48.118 INFO 127.0.0.1 - - [14/Apr/2024 20:28:48] "[35m[1mGET /scoring HTTP/1.1[0m" 500 -
+2024-04-14 20:28:48.166 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:28:48.183 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:28:48.195 INFO 127.0.0.1 - - [14/Apr/2024 20:28:48] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:28:48.926 INFO [ DATA: Collecting data... ]
+2024-04-14 20:28:48.927 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:28:48.928 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:28:48.931 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:28:48.937 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:28:48.942 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:28:50.776 INFO [ DATA: Loading data... ]
+2024-04-14 20:28:50.782 INFO [ MODEL: Training model... ]
+2024-04-14 20:28:50.784 INFO [ FINISH: Training successful ]
+2024-04-14 20:28:50.786 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:28:50.954 INFO [ TIMING: Execution time for ingestion.py: 0.7902415999851655 ]
+2024-04-14 20:28:50.954 INFO [ TIMING: Execution time for training.py: 1.9321973999904003 ]
+2024-04-14 20:28:50.965 INFO 127.0.0.1 - - [14/Apr/2024 20:28:50] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:34:23.997 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:34:24.185 INFO  * Restarting with stat
+2024-04-14 20:34:26.376 WARNING  * Debugger is active!
+2024-04-14 20:34:26.378 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:34:30.585 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 20:34:30.586 INFO 127.0.0.1 - - [14/Apr/2024 20:34:30] "POST /prediction HTTP/1.1" 200 -
+2024-04-14 20:34:30.600 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:34:30.605 INFO 127.0.0.1 - - [14/Apr/2024 20:34:30] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 20:34:30.661 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:34:30.666 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:34:30.675 INFO 127.0.0.1 - - [14/Apr/2024 20:34:30] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:34:31.367 INFO [ DATA: Collecting data... ]
+2024-04-14 20:34:31.368 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:34:31.368 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:34:31.372 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:34:31.378 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:34:31.384 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:34:33.299 INFO [ DATA: Loading data... ]
+2024-04-14 20:34:33.305 INFO [ MODEL: Training model... ]
+2024-04-14 20:34:33.310 INFO [ FINISH: Training successful ]
+2024-04-14 20:34:33.312 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:34:33.536 INFO [ TIMING: Execution time for ingestion.py: 0.7807870000251569 ]
+2024-04-14 20:34:33.537 INFO [ TIMING: Execution time for training.py: 2.071862399985548 ]
+2024-04-14 20:34:33.552 INFO 127.0.0.1 - - [14/Apr/2024 20:34:33] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:35:23.089 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:35:23.290 INFO  * Restarting with stat
+2024-04-14 20:35:24.960 WARNING  * Debugger is active!
+2024-04-14 20:35:24.962 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:35:48.272 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:35:48.457 INFO  * Restarting with stat
+2024-04-14 20:35:50.132 WARNING  * Debugger is active!
+2024-04-14 20:35:50.134 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:35:55.370 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 20:35:55.372 INFO 127.0.0.1 - - [14/Apr/2024 20:35:55] "POST /prediction HTTP/1.1" 200 -
+2024-04-14 20:35:55.388 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:35:55.394 INFO 127.0.0.1 - - [14/Apr/2024 20:35:55] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 20:35:55.423 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:35:55.429 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:35:55.438 INFO 127.0.0.1 - - [14/Apr/2024 20:35:55] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:35:56.115 INFO [ DATA: Collecting data... ]
+2024-04-14 20:35:56.116 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:35:56.116 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:35:56.120 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:35:56.126 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:35:56.130 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:35:58.065 INFO [ DATA: Loading data... ]
+2024-04-14 20:35:58.074 INFO [ MODEL: Training model... ]
+2024-04-14 20:35:58.077 INFO [ FINISH: Training successful ]
+2024-04-14 20:35:58.078 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:35:58.277 INFO [ TIMING: Execution time for ingestion.py: 0.7644012999953702 ]
+2024-04-14 20:35:58.277 INFO [ TIMING: Execution time for training.py: 2.070864299981622 ]
+2024-04-14 20:35:58.282 INFO 127.0.0.1 - - [14/Apr/2024 20:35:58] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:38:03.547 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:38:03.725 INFO  * Restarting with stat
+2024-04-14 20:38:05.532 WARNING  * Debugger is active!
+2024-04-14 20:38:05.534 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:38:54.177 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:38:54.354 INFO  * Restarting with stat
+2024-04-14 20:38:56.092 WARNING  * Debugger is active!
+2024-04-14 20:38:56.094 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:39:00.609 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 20:39:00.610 INFO 127.0.0.1 - - [14/Apr/2024 20:39:00] "POST /prediction HTTP/1.1" 200 -
+2024-04-14 20:39:00.628 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:39:00.630 INFO 127.0.0.1 - - [14/Apr/2024 20:39:00] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 20:39:00.655 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:39:00.659 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:39:00.686 INFO 127.0.0.1 - - [14/Apr/2024 20:39:00] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:39:01.372 INFO [ DATA: Collecting data... ]
+2024-04-14 20:39:01.372 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:39:01.373 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:39:01.377 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:39:01.383 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:39:01.389 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:39:02.959 INFO [ DATA: Loading data... ]
+2024-04-14 20:39:02.965 INFO [ MODEL: Training model... ]
+2024-04-14 20:39:02.967 INFO [ FINISH: Training successful ]
+2024-04-14 20:39:02.969 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:39:03.116 INFO [ TIMING: Execution time for ingestion.py: 0.7740400999900885 ]
+2024-04-14 20:39:03.117 INFO [ TIMING: Execution time for training.py: 1.650014500017278 ]
+2024-04-14 20:39:03.122 INFO 127.0.0.1 - - [14/Apr/2024 20:39:03] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:42:08.548 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:42:08.746 INFO  * Restarting with stat
+2024-04-14 20:42:10.585 WARNING  * Debugger is active!
+2024-04-14 20:42:10.587 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:42:17.613 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 20:42:17.618 INFO 127.0.0.1 - - [14/Apr/2024 20:42:17] "POST /prediction HTTP/1.1" 200 -
+2024-04-14 20:42:17.634 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:42:17.635 INFO 127.0.0.1 - - [14/Apr/2024 20:42:17] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 20:42:17.654 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:42:17.669 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:42:17.677 INFO 127.0.0.1 - - [14/Apr/2024 20:42:17] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:42:18.434 INFO [ DATA: Collecting data... ]
+2024-04-14 20:42:18.435 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:42:18.436 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:42:18.440 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:42:18.447 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:42:18.454 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:42:20.043 INFO [ DATA: Loading data... ]
+2024-04-14 20:42:20.050 INFO [ MODEL: Training model... ]
+2024-04-14 20:42:20.054 INFO [ FINISH: Training successful ]
+2024-04-14 20:42:20.055 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:42:20.232 INFO [ TIMING: Execution time for ingestion.py: 0.8252606999885757 ]
+2024-04-14 20:42:20.398 INFO [ TIMING: Execution time for training.py: 1.7016225999977905 ]
+2024-04-14 20:42:20.438 INFO 127.0.0.1 - - [14/Apr/2024 20:42:20] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:42:59.168 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:42:59.374 INFO  * Restarting with stat
+2024-04-14 20:43:01.176 WARNING  * Debugger is active!
+2024-04-14 20:43:01.177 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:43:12.952 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 20:43:12.957 INFO 127.0.0.1 - - [14/Apr/2024 20:43:12] "POST /prediction HTTP/1.1" 200 -
+2024-04-14 20:43:12.971 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:43:12.972 INFO 127.0.0.1 - - [14/Apr/2024 20:43:12] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 20:43:12.990 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:43:13.001 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:43:13.022 INFO 127.0.0.1 - - [14/Apr/2024 20:43:13] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:43:13.706 INFO [ DATA: Collecting data... ]
+2024-04-14 20:43:13.708 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:43:13.708 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:43:13.712 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:43:13.719 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:43:13.723 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:43:15.350 INFO [ DATA: Loading data... ]
+2024-04-14 20:43:15.355 INFO [ MODEL: Training model... ]
+2024-04-14 20:43:15.358 INFO [ FINISH: Training successful ]
+2024-04-14 20:43:15.359 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:43:15.515 INFO [ TIMING: Execution time for ingestion.py: 0.7733176999900024 ]
+2024-04-14 20:43:15.515 INFO [ TIMING: Execution time for training.py: 1.7142890999966767 ]
+2024-04-14 20:43:15.522 INFO 127.0.0.1 - - [14/Apr/2024 20:43:15] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:43:48.088 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:43:48.269 INFO  * Restarting with stat
+2024-04-14 20:43:50.149 WARNING  * Debugger is active!
+2024-04-14 20:43:50.151 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:44:02.630 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 20:44:02.634 INFO 127.0.0.1 - - [14/Apr/2024 20:44:02] "POST /prediction HTTP/1.1" 200 -
+2024-04-14 20:44:02.649 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:44:02.650 INFO 127.0.0.1 - - [14/Apr/2024 20:44:02] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 20:44:02.707 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:44:02.715 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:44:02.722 INFO 127.0.0.1 - - [14/Apr/2024 20:44:02] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:44:03.412 INFO [ DATA: Collecting data... ]
+2024-04-14 20:44:03.412 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:44:03.413 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:44:03.417 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:44:03.423 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:44:03.427 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:44:05.048 INFO [ DATA: Loading data... ]
+2024-04-14 20:44:05.055 INFO [ MODEL: Training model... ]
+2024-04-14 20:44:05.058 INFO [ FINISH: Training successful ]
+2024-04-14 20:44:05.059 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:44:05.228 INFO [ TIMING: Execution time for ingestion.py: 0.7963754999800585 ]
+2024-04-14 20:44:05.229 INFO [ TIMING: Execution time for training.py: 1.7049871999770403 ]
+2024-04-14 20:44:05.234 INFO 127.0.0.1 - - [14/Apr/2024 20:44:05] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:44:53.998 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:44:54.205 INFO  * Restarting with stat
+2024-04-14 20:44:56.184 WARNING  * Debugger is active!
+2024-04-14 20:44:56.186 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:44:59.272 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 20:44:59.276 INFO 127.0.0.1 - - [14/Apr/2024 20:44:59] "POST /prediction HTTP/1.1" 200 -
+2024-04-14 20:44:59.296 INFO [ METRICS: F1=0.57 ]
+2024-04-14 20:44:59.297 INFO 127.0.0.1 - - [14/Apr/2024 20:44:59] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 20:44:59.341 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 20:44:59.347 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 20:44:59.355 INFO 127.0.0.1 - - [14/Apr/2024 20:44:59] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 20:45:00.075 INFO [ DATA: Collecting data... ]
+2024-04-14 20:45:00.076 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 20:45:00.076 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 20:45:00.080 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 20:45:00.086 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 20:45:00.090 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 20:45:01.657 INFO [ DATA: Loading data... ]
+2024-04-14 20:45:01.662 INFO [ MODEL: Training model... ]
+2024-04-14 20:45:01.665 INFO [ FINISH: Training successful ]
+2024-04-14 20:45:01.666 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 20:45:01.820 INFO [ TIMING: Execution time for ingestion.py: 0.8054425999871455 ]
+2024-04-14 20:45:01.821 INFO [ TIMING: Execution time for training.py: 1.6550858999835327 ]
+2024-04-14 20:45:01.828 INFO 127.0.0.1 - - [14/Apr/2024 20:45:01] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 20:46:28.305 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:46:28.486 INFO  * Restarting with stat
+2024-04-14 20:46:30.180 WARNING  * Debugger is active!
+2024-04-14 20:46:30.181 INFO  * Debugger PIN: 121-634-329
+2024-04-14 20:46:49.450 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 20:46:49.620 INFO  * Restarting with stat
+2024-04-14 20:46:51.373 WARNING  * Debugger is active!
+2024-04-14 20:46:51.375 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:05:37.216 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:05:37.406 INFO  * Restarting with stat
+2024-04-14 21:05:39.242 WARNING  * Debugger is active!
+2024-04-14 21:05:39.246 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:05:43.254 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 21:05:43.256 INFO 127.0.0.1 - - [14/Apr/2024 21:05:43] "POST /prediction HTTP/1.1" 200 -
+2024-04-14 21:05:43.279 INFO [ METRICS: F1=0.57 ]
+2024-04-14 21:05:43.289 INFO 127.0.0.1 - - [14/Apr/2024 21:05:43] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 21:05:43.317 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 21:05:43.325 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 21:05:43.335 INFO 127.0.0.1 - - [14/Apr/2024 21:05:43] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 21:05:44.031 INFO [ DATA: Collecting data... ]
+2024-04-14 21:05:44.032 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 21:05:44.033 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 21:05:44.036 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 21:05:44.042 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 21:05:44.047 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 21:05:45.608 INFO [ DATA: Loading data... ]
+2024-04-14 21:05:45.656 INFO [ MODEL: Training model... ]
+2024-04-14 21:05:45.660 INFO [ FINISH: Training successful ]
+2024-04-14 21:05:45.661 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 21:05:45.831 INFO [ TIMING: Execution time for ingestion.py: 0.7704627999919467 ]
+2024-04-14 21:05:45.832 INFO [ TIMING: Execution time for training.py: 1.7056140000058804 ]
+2024-04-14 21:05:45.837 INFO 127.0.0.1 - - [14/Apr/2024 21:05:45] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 21:05:58.680 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:05:58.899 INFO  * Restarting with stat
+2024-04-14 21:06:35.010 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.12:8000
+2024-04-14 21:06:35.011 INFO [33mPress CTRL+C to quit[0m
+2024-04-14 21:06:35.013 INFO  * Restarting with stat
+2024-04-14 21:06:36.853 WARNING  * Debugger is active!
+2024-04-14 21:06:36.854 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:06:42.922 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 21:06:42.924 INFO 127.0.0.1 - - [14/Apr/2024 21:06:42] "POST /prediction HTTP/1.1" 200 -
+2024-04-14 21:06:42.937 INFO [ METRICS: F1=0.57 ]
+2024-04-14 21:06:42.938 INFO 127.0.0.1 - - [14/Apr/2024 21:06:42] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 21:06:42.956 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 21:06:42.977 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 21:06:42.997 INFO 127.0.0.1 - - [14/Apr/2024 21:06:42] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 21:06:43.724 INFO [ DATA: Collecting data... ]
+2024-04-14 21:06:43.725 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 21:06:43.726 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 21:06:43.729 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 21:06:43.735 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 21:06:43.742 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 21:06:45.835 INFO [ DATA: Loading data... ]
+2024-04-14 21:06:45.840 INFO [ MODEL: Training model... ]
+2024-04-14 21:06:45.856 INFO [ FINISH: Training successful ]
+2024-04-14 21:06:45.859 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 21:06:46.010 INFO [ TIMING: Execution time for ingestion.py: 0.8195809999888297 ]
+2024-04-14 21:06:46.011 INFO [ TIMING: Execution time for training.py: 2.185081400006311 ]
+2024-04-14 21:06:46.016 INFO 127.0.0.1 - - [14/Apr/2024 21:06:46] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 21:07:37.672 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:07:37.893 INFO  * Restarting with stat
+2024-04-14 21:07:39.844 WARNING  * Debugger is active!
+2024-04-14 21:07:39.846 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:07:47.621 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 21:07:47.623 INFO 127.0.0.1 - - [14/Apr/2024 21:07:47] "POST /prediction HTTP/1.1" 200 -
+2024-04-14 21:07:47.640 INFO [ METRICS: F1=0.57 ]
+2024-04-14 21:07:47.643 INFO 127.0.0.1 - - [14/Apr/2024 21:07:47] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 21:07:47.679 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 21:07:47.684 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 21:07:47.694 INFO 127.0.0.1 - - [14/Apr/2024 21:07:47] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 21:07:48.448 INFO [ DATA: Collecting data... ]
+2024-04-14 21:07:48.449 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 21:07:48.450 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 21:07:48.454 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 21:07:48.460 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 21:07:48.464 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 21:07:50.385 INFO [ DATA: Loading data... ]
+2024-04-14 21:07:50.392 INFO [ MODEL: Training model... ]
+2024-04-14 21:07:50.394 INFO [ FINISH: Training successful ]
+2024-04-14 21:07:50.395 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 21:07:50.649 INFO [ TIMING: Execution time for ingestion.py: 0.8455632000113837 ]
+2024-04-14 21:07:50.650 INFO [ TIMING: Execution time for training.py: 2.1055658999830484 ]
+2024-04-14 21:07:50.655 INFO 127.0.0.1 - - [14/Apr/2024 21:07:50] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 21:08:52.002 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:08:52.201 INFO  * Restarting with stat
+2024-04-14 21:08:54.049 WARNING  * Debugger is active!
+2024-04-14 21:08:54.050 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:09:22.461 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 21:09:22.651 INFO  * Restarting with stat
+2024-04-14 21:09:24.403 WARNING  * Debugger is active!
+2024-04-14 21:09:24.404 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:09:41.638 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/apicalls.py', reloading
+2024-04-14 21:09:41.810 INFO  * Restarting with stat
+2024-04-14 21:09:43.551 WARNING  * Debugger is active!
+2024-04-14 21:09:43.552 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:14:00.558 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:14:00.846 INFO  * Restarting with stat
+2024-04-14 21:14:02.571 WARNING  * Debugger is active!
+2024-04-14 21:14:02.572 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:14:31.433 INFO [ METRICS: F1=0.57 ]
+2024-04-14 21:14:31.437 INFO 127.0.0.1 - - [14/Apr/2024 21:14:31] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 21:14:46.513 INFO 127.0.0.1 - - [14/Apr/2024 21:14:46] "[31m[1mGET /prediction?filename=data/test/test_data.csv HTTP/1.1[0m" 405 -
+2024-04-14 21:15:12.507 INFO 127.0.0.1 - - [14/Apr/2024 21:15:12] "[33mGET /diagnostics/dependencies HTTP/1.1[0m" 404 -
+2024-04-14 21:15:26.088 INFO 127.0.0.1 - - [14/Apr/2024 21:15:26] "[33mGET /diagnostics HTTP/1.1[0m" 404 -
+2024-04-14 21:15:57.138 INFO [ DATA: Collecting data... ]
+2024-04-14 21:15:57.139 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 21:15:57.139 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 21:15:57.141 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 21:15:57.147 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 21:15:57.151 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 21:15:58.708 INFO [ DATA: Loading data... ]
+2024-04-14 21:15:58.713 INFO [ MODEL: Training model... ]
+2024-04-14 21:15:58.716 INFO [ FINISH: Training successful ]
+2024-04-14 21:15:58.717 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 21:15:58.863 INFO [ TIMING: Execution time for ingestion.py: 0.7507985000265762 ]
+2024-04-14 21:15:58.863 INFO [ TIMING: Execution time for training.py: 1.6409490999940317 ]
+2024-04-14 21:15:58.868 INFO 127.0.0.1 - - [14/Apr/2024 21:15:58] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 21:16:14.375 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:16:14.553 INFO  * Restarting with stat
+2024-04-14 21:16:16.330 WARNING  * Debugger is active!
+2024-04-14 21:16:16.332 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:17:00.916 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:17:01.115 INFO  * Restarting with stat
+2024-04-14 21:17:03.073 WARNING  * Debugger is active!
+2024-04-14 21:17:03.074 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:28:44.415 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:28:44.669 INFO  * Restarting with stat
+2024-04-14 21:28:46.527 WARNING  * Debugger is active!
+2024-04-14 21:28:46.529 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:28:54.686 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:28:54.887 INFO  * Restarting with stat
+2024-04-14 21:28:56.687 WARNING  * Debugger is active!
+2024-04-14 21:28:56.689 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:29:34.142 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:29:34.316 INFO  * Restarting with stat
+2024-04-14 21:29:36.131 WARNING  * Debugger is active!
+2024-04-14 21:29:36.133 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:29:45.262 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:29:45.504 INFO  * Restarting with stat
+2024-04-14 21:29:47.220 WARNING  * Debugger is active!
+2024-04-14 21:29:47.222 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:30:48.946 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:30:49.120 INFO  * Restarting with stat
+2024-04-14 21:30:51.085 WARNING  * Debugger is active!
+2024-04-14 21:30:51.086 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:30:56.171 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:30:56.357 INFO  * Restarting with stat
+2024-04-14 21:30:58.183 WARNING  * Debugger is active!
+2024-04-14 21:30:58.185 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:31:06.100 INFO [ DATA: Collecting data... ]
+2024-04-14 21:31:06.101 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 21:31:06.102 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 21:31:06.105 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 21:31:06.111 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 21:31:06.117 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 21:31:07.708 INFO [ DATA: Loading data... ]
+2024-04-14 21:31:07.713 INFO [ MODEL: Training model... ]
+2024-04-14 21:31:07.716 INFO [ FINISH: Training successful ]
+2024-04-14 21:31:07.717 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 21:31:07.867 INFO [ TIMING: Execution time for ingestion.py: 0.7583817999984603 ]
+2024-04-14 21:31:07.867 INFO [ TIMING: Execution time for training.py: 1.6734768000023905 ]
+2024-04-14 21:31:07.869 INFO 127.0.0.1 - - [14/Apr/2024 21:31:07] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 21:31:14.361 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 21:31:14.362 INFO 127.0.0.1 - - [14/Apr/2024 21:31:14] "POST /prediction HTTP/1.1" 200 -
+2024-04-14 21:31:14.378 INFO [ METRICS: F1=0.57 ]
+2024-04-14 21:31:14.379 INFO 127.0.0.1 - - [14/Apr/2024 21:31:14] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 21:31:14.409 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 21:31:14.415 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 21:31:14.460 INFO 127.0.0.1 - - [14/Apr/2024 21:31:14] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 21:31:15.145 INFO [ DATA: Collecting data... ]
+2024-04-14 21:31:15.146 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 21:31:15.147 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 21:31:15.150 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 21:31:15.156 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 21:31:15.160 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 21:31:16.735 INFO [ DATA: Loading data... ]
+2024-04-14 21:31:16.741 INFO [ MODEL: Training model... ]
+2024-04-14 21:31:16.743 INFO [ FINISH: Training successful ]
+2024-04-14 21:31:16.744 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 21:31:16.893 INFO [ TIMING: Execution time for ingestion.py: 0.7648961000086274 ]
+2024-04-14 21:31:16.894 INFO [ TIMING: Execution time for training.py: 1.6572756000095978 ]
+2024-04-14 21:31:16.895 INFO 127.0.0.1 - - [14/Apr/2024 21:31:16] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 21:31:58.977 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:31:59.152 INFO  * Restarting with stat
+2024-04-14 21:32:00.905 WARNING  * Debugger is active!
+2024-04-14 21:32:00.906 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:32:05.980 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:32:06.169 INFO  * Restarting with stat
+2024-04-14 21:32:07.940 WARNING  * Debugger is active!
+2024-04-14 21:32:07.942 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:32:14.035 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:32:14.222 INFO  * Restarting with stat
+2024-04-14 21:32:15.991 WARNING  * Debugger is active!
+2024-04-14 21:32:15.993 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:32:22.086 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:32:22.272 INFO  * Restarting with stat
+2024-04-14 21:32:24.059 WARNING  * Debugger is active!
+2024-04-14 21:32:24.060 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:32:57.540 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:32:57.724 INFO  * Restarting with stat
+2024-04-14 21:32:59.649 WARNING  * Debugger is active!
+2024-04-14 21:32:59.651 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:33:08.771 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/app.py', reloading
+2024-04-14 21:33:08.947 INFO  * Restarting with stat
+2024-04-14 21:33:10.787 WARNING  * Debugger is active!
+2024-04-14 21:33:10.789 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:33:15.888 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 21:33:15.889 INFO 127.0.0.1 - - [14/Apr/2024 21:33:15] "POST /prediction HTTP/1.1" 200 -
+2024-04-14 21:33:15.904 INFO [ METRICS: F1=0.57 ]
+2024-04-14 21:33:15.905 INFO 127.0.0.1 - - [14/Apr/2024 21:33:15] "GET /scoring HTTP/1.1" 200 -
+2024-04-14 21:33:15.958 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            173.105263        1631.368421            26.210526
+median           78.000000         961.000000            12.000000
+std             304.266859        2470.024566            30.895125 ]
+2024-04-14 21:33:15.963 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-14 21:33:15.971 INFO 127.0.0.1 - - [14/Apr/2024 21:33:15] "GET /summarystats HTTP/1.1" 200 -
+2024-04-14 21:33:16.662 INFO [ DATA: Collecting data... ]
+2024-04-14 21:33:16.663 INFO [ DIRECTORY LISTING: practicedata/dataset1.csv ]
+2024-04-14 21:33:16.663 INFO [ DIRECTORY LISTING: practicedata/dataset2.csv ]
+2024-04-14 21:33:16.667 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 21:33:16.673 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-14 21:33:16.677 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-14 21:33:18.422 INFO [ DATA: Loading data... ]
+2024-04-14 21:33:18.429 INFO [ MODEL: Training model... ]
+2024-04-14 21:33:18.433 INFO [ FINISH: Training successful ]
+2024-04-14 21:33:18.436 INFO [ FILE: Model saved to 'practicemodels/trainedmodel.pkl' ]
+2024-04-14 21:33:18.608 INFO [ TIMING: Execution time for ingestion.py: 0.7730811999936122 ]
+2024-04-14 21:33:18.609 INFO [ TIMING: Execution time for training.py: 1.8581418999820016 ]
+2024-04-14 21:33:18.610 INFO 127.0.0.1 - - [14/Apr/2024 21:33:18] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-14 21:34:56.538 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/fullprocess.py', reloading
+2024-04-14 21:34:56.749 INFO  * Restarting with stat
+2024-04-14 21:34:58.516 WARNING  * Debugger is active!
+2024-04-14 21:34:58.517 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:35:22.809 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/fullprocess.py', reloading
+2024-04-14 21:35:22.994 INFO  * Restarting with stat
+2024-04-14 21:35:24.802 WARNING  * Debugger is active!
+2024-04-14 21:35:24.803 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:35:25.837 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/fullprocess.py', reloading
+2024-04-14 21:35:26.026 INFO  * Restarting with stat
+2024-04-14 21:35:27.765 WARNING  * Debugger is active!
+2024-04-14 21:35:27.766 INFO  * Debugger PIN: 121-634-329
+2024-04-14 21:50:16.965 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 21:50:16.968 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 21:55:37.156 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 21:57:07.862 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 21:57:07.867 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 21:58:31.522 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 21:58:31.528 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 22:01:08.322 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 22:01:08.328 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 22:03:45.118 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 22:03:45.124 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 22:07:56.491 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 22:07:56.496 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 22:08:32.543 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 22:08:32.549 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 22:08:32.553 INFO No new files found
+2024-04-14 22:10:34.867 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 22:10:34.873 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 22:10:34.877 INFO No new files found
+2024-04-14 22:10:52.862 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 22:10:52.867 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 22:10:52.874 INFO No new files found
+2024-04-14 22:11:37.618 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 22:11:37.624 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 22:11:37.628 INFO No new files found
+2024-04-14 22:12:23.866 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 22:12:23.871 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 22:12:23.873 INFO No new files found
+2024-04-14 22:21:45.629 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 22:21:45.634 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 22:22:51.687 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 22:22:51.693 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 22:22:51.697 INFO No new files found
+2024-04-14 22:23:55.661 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 22:23:55.667 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2 - Copy.csv', 'dataset2.csv'] ]
+2024-04-14 22:23:55.671 INFO No new files found
+2024-04-14 22:24:21.498 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 22:24:21.504 INFO [ FILE: Importing the following data files: ['dataset1.csv', 'dataset2.csv'] ]
+2024-04-14 22:24:21.504 INFO [ FILE: Importing the following data files: ['dataset2 - Copy.csv'] ]
+2024-04-14 22:24:21.508 INFO No new files found
+2024-04-14 22:28:59.291 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 22:28:59.299 INFO No new files found
+2024-04-14 22:32:46.326 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 22:33:11.219 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-14 22:35:33.302 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-15 19:01:49.897 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-15 19:27:29.524 INFO [ DATA: Collecting data... ]
+2024-04-15 19:27:29.526 INFO [ DIRECTORY LISTING: sourcedata/dataset3.csv ]
+2024-04-15 19:27:29.531 INFO [ DIRECTORY LISTING: sourcedata/dataset4.csv ]
+2024-04-15 19:27:29.532 INFO [ DIRECTORY LISTING: sourcedata/Icon_ ]
+2024-04-15 19:27:29.546 INFO [ FILE: Importing the following data files: ['dataset3.csv', 'dataset4.csv', 'Icon_'] ]
+2024-04-15 19:27:29.556 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-15 19:27:29.574 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-15 19:31:02.142 INFO [ DATA: Collecting data... ]
+2024-04-15 19:31:02.143 INFO [ DIRECTORY LISTING: sourcedata/dataset3.csv ]
+2024-04-15 19:31:02.144 INFO [ DIRECTORY LISTING: sourcedata/dataset4.csv ]
+2024-04-15 19:31:02.145 INFO [ DIRECTORY LISTING: sourcedata/Icon_ ]
+2024-04-15 19:31:02.159 INFO [ FILE: Importing the following data files: ['dataset3.csv', 'dataset4.csv', 'Icon_'] ]
+2024-04-15 19:31:02.168 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-15 19:31:02.174 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-15 19:31:02.196 INFO [ METRICS: Precision: 0.6, Recall: 0.42857142857142855, Fbeta: 0.5 ]
+2024-04-15 19:31:02.199 INFO [ MODEL DRIFT: Comparing scores... ]
+2024-04-15 19:31:02.199 INFO [ MODEL: Retraining model... ]
+2024-04-15 19:31:02.200 INFO [ DATA: Loading data... ]
+2024-04-15 19:31:02.206 INFO [ MODEL: Training model... ]
+2024-04-15 19:31:02.214 INFO [ FINISHED: Training successful ]
+2024-04-15 19:31:02.215 INFO [ FILE: Model saved to 'models/trainedmodel.pkl' ]
+2024-04-15 19:31:02.216 INFO [ FINISHED: Model re-trained successfully ]
+2024-04-15 19:31:05.582 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-15 19:31:06.319 INFO [ DATA: Confusion matrix saved to 'models/confusionmatrix.png' ]
+2024-04-15 19:31:35.917 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.12:8000
+2024-04-15 19:31:35.921 INFO [33mPress CTRL+C to quit[0m
+2024-04-15 19:31:35.924 INFO  * Restarting with stat
+2024-04-15 19:31:37.874 WARNING  * Debugger is active!
+2024-04-15 19:31:37.878 INFO  * Debugger PIN: 121-634-329
+2024-04-15 19:31:45.091 INFO [ DATA: Collecting data... ]
+2024-04-15 19:31:45.094 INFO [ DIRECTORY LISTING: sourcedata/dataset3.csv ]
+2024-04-15 19:31:45.097 INFO [ DIRECTORY LISTING: sourcedata/dataset4.csv ]
+2024-04-15 19:31:45.099 INFO [ DIRECTORY LISTING: sourcedata/Icon_ ]
+2024-04-15 19:31:45.105 INFO [ FILE: Importing the following data files: ['dataset3.csv', 'dataset4.csv', 'Icon_'] ]
+2024-04-15 19:31:45.111 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-15 19:31:45.117 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-15 19:31:45.128 INFO [ METRICS: Precision: 0.6, Recall: 0.42857142857142855, Fbeta: 0.5 ]
+2024-04-15 19:31:45.132 INFO [ MODEL DRIFT: Comparing scores... ]
+2024-04-15 19:31:45.132 INFO [ MODEL: Retraining model... ]
+2024-04-15 19:31:45.134 INFO [ DATA: Loading data... ]
+2024-04-15 19:31:45.143 INFO [ MODEL: Training model... ]
+2024-04-15 19:31:45.146 INFO [ FINISHED: Training successful ]
+2024-04-15 19:31:45.149 INFO [ FILE: Model saved to 'models/trainedmodel.pkl' ]
+2024-04-15 19:31:45.149 INFO [ FINISHED: Model re-trained successfully ]
+2024-04-15 19:31:47.896 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-15 19:31:48.573 INFO [ DATA: Confusion matrix saved to 'models/confusionmatrix.png' ]
+2024-04-15 19:31:49.134 INFO [ METRICS: Precision: 0.5, Recall: 0.6666666666666666, Fbeta: 0.5714285714285714 ]
+2024-04-15 19:31:49.135 INFO 127.0.0.1 - - [15/Apr/2024 19:31:49] "POST /prediction HTTP/1.1" 200 -
+2024-04-15 19:31:49.155 INFO [ METRICS: F1=0.67 ]
+2024-04-15 19:31:49.156 INFO 127.0.0.1 - - [15/Apr/2024 19:31:49] "GET /scoring HTTP/1.1" 200 -
+2024-04-15 19:31:49.206 INFO [ STATISTICS: 
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean           3034.666667         907.533333           199.800000
+median         1024.000000         101.000000            81.000000
+std            5216.433725        2535.715224           375.067461 ]
+2024-04-15 19:31:49.213 INFO [ STATISTICS: Percentage of NA in columns: [0.0, 0.0, 0.0, 0.0, 0.0]% ]
+2024-04-15 19:31:49.221 INFO 127.0.0.1 - - [15/Apr/2024 19:31:49] "GET /summarystats HTTP/1.1" 200 -
+2024-04-15 19:31:49.938 INFO [ DATA: Collecting data... ]
+2024-04-15 19:31:49.939 INFO [ DIRECTORY LISTING: sourcedata/dataset3.csv ]
+2024-04-15 19:31:49.940 INFO [ DIRECTORY LISTING: sourcedata/dataset4.csv ]
+2024-04-15 19:31:49.942 INFO [ DIRECTORY LISTING: sourcedata/Icon_ ]
+2024-04-15 19:31:49.945 INFO [ FILE: Importing the following data files: ['dataset3.csv', 'dataset4.csv', 'Icon_'] ]
+2024-04-15 19:31:49.951 INFO [ FILE: Data files information saved to 'ingesteddata/ingestedfiles.txt' ]
+2024-04-15 19:31:49.955 INFO [ FILE: Final data file saved to 'ingesteddata/finaldata.csv' ]
+2024-04-15 19:31:51.584 INFO [ DATA: Loading data... ]
+2024-04-15 19:31:51.589 INFO [ MODEL: Training model... ]
+2024-04-15 19:31:51.593 INFO [ FINISHED: Training successful ]
+2024-04-15 19:31:51.594 INFO [ FILE: Model saved to 'models/trainedmodel.pkl' ]
+2024-04-15 19:31:51.745 INFO [ TIMING: Execution time for ingestion.py: 0.8075942000141367 ]
+2024-04-15 19:31:51.745 INFO [ TIMING: Execution time for training.py: 1.7107011000043713 ]
+2024-04-15 19:31:51.747 INFO 127.0.0.1 - - [15/Apr/2024 19:31:51] "GET /diagnostics/timing HTTP/1.1" 200 -
+2024-04-15 20:00:07.839 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/fullprocess.py', reloading
+2024-04-15 20:00:08.066 INFO  * Restarting with stat
+2024-04-15 20:00:10.373 WARNING  * Debugger is active!
+2024-04-15 20:00:10.375 INFO  * Debugger PIN: 121-634-329
+2024-04-15 20:13:04.449 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/fullprocess.py', reloading
+2024-04-15 20:13:04.741 INFO  * Restarting with stat
+2024-04-15 20:13:07.327 WARNING  * Debugger is active!
+2024-04-15 20:13:07.328 INFO  * Debugger PIN: 121-634-329
+2024-04-15 20:15:29.201 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/fullprocess.py', reloading
+2024-04-15 20:15:29.420 INFO  * Restarting with stat
+2024-04-15 20:15:31.290 WARNING  * Debugger is active!
+2024-04-15 20:15:31.292 INFO  * Debugger PIN: 121-634-329
+2024-04-15 20:16:59.585 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/reporting.py', reloading
+2024-04-15 20:16:59.774 INFO  * Restarting with stat
+2024-04-15 20:17:01.958 WARNING  * Debugger is active!
+2024-04-15 20:17:01.960 INFO  * Debugger PIN: 121-634-329
+2024-04-15 20:17:35.459 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/deployment.py', reloading
+2024-04-15 20:17:35.662 INFO  * Restarting with stat
+2024-04-15 20:17:37.514 WARNING  * Debugger is active!
+2024-04-15 20:17:37.515 INFO  * Debugger PIN: 121-634-329
+2024-04-15 21:16:14.010 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/submission/ingestion.py', reloading
+2024-04-15 21:16:15.319 INFO  * Restarting with stat
+2024-04-15 21:16:19.373 WARNING  * Debugger is active!
+2024-04-15 21:16:19.374 INFO  * Debugger PIN: 121-634-329
+2024-04-15 21:18:43.766 INFO  * Detected change in '/home/mike/udacity_course/udacity_model_scoring/repo/ModelScoring/submission/diagnostics.py', reloading
+2024-04-15 21:18:44.650 INFO  * Restarting with stat
+2024-04-15 21:18:47.518 WARNING  * Debugger is active!
+2024-04-15 21:18:47.522 INFO  * Debugger PIN: 121-634-329
