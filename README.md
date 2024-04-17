@@ -1,4 +1,4 @@
-# Dynamic ML Model Risk Assessment
+# Machine Learning Model Risk Assessment
 
 ## Project starter kit
 
